@@ -13,6 +13,8 @@ WebSocket Client & Server Implementation for Node
 
 Overview
 --------
+This is a fork of [WebSocket-Node](https://github.com/theturtle32/WebSocket-Node) with [this fix](https://github.com/theturtle32/WebSocket-Node/issues/287) applied.
+
 This is a (mostly) pure JavaScript implementation of the WebSocket protocol versions 8 and 13 for Node.  There are some example client and server applications that implement various interoperability testing protocols in the "test/scripts" folder.
 
 For a WebSocket client written in ActionScript 3, see my [AS3WebScocket](https://github.com/theturtle32/AS3WebSocket) project.
